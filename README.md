@@ -7,3 +7,6 @@
 <span style="margin-left='2px'">
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 </span>
+<span style="margin-left='2px'">
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+</span>
